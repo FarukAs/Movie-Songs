@@ -1,19 +1,26 @@
-//
-//  ViewController.swift
-//  Movie Songs
-//
-//  Created by Ömer Faruk on 25.07.2022.
-//
-
 import UIKit
+import AVFoundation
 
 class ViewController: UIViewController {
+    
+    var player: AVAudioPlayer!
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
 
-
+    @IBAction func keyPressed(_ sender: UIButton) {
+        playSound(soundname: (sender.titleLabel?.text)!)
+        sender.alpha = 0.5
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.2) {
+            sender.alpha = 1.0
+        }
+    }
+    
+    func playSound(soundname: String) {
+        let url = Bundle.main.url(forResource: soundname, withExtension: ".mp3")
+        player = try! AVAudioPlayer(contentsOf: url!)
+        player.play()
+                
+    }
 }
-

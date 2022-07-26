@@ -14,6 +14,15 @@
 		A9AB5184288F1BC5006A5385 /* Movie_Songs.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A9AB5182288F1BC5006A5385 /* Movie_Songs.xcdatamodeld */; };
 		A9AB5186288F1BC5006A5385 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9AB5185288F1BC5006A5385 /* Assets.xcassets */; };
 		A9AB5189288F1BC5006A5385 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A9AB5187288F1BC5006A5385 /* LaunchScreen.storyboard */; };
+		A9AB519D288F1D79006A5385 /* Avengers.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A9AB519C288F1D79006A5385 /* Avengers.mp3 */; };
+		A9AB519F288F1D81006A5385 /* God Father.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A9AB519E288F1D81006A5385 /* God Father.mp3 */; };
+		A9AB51A1288F1D85006A5385 /* The Dark Knight.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A9AB51A0288F1D85006A5385 /* The Dark Knight.mp3 */; };
+		A9AB51A3288F1DE5006A5385 /* Pirates Of The Carribean.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A9AB51A2288F1DE5006A5385 /* Pirates Of The Carribean.mp3 */; };
+		A9AB51AA288F1DFA006A5385 /* Star Wars.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A9AB51A4288F1DF9006A5385 /* Star Wars.mp3 */; };
+		A9AB51AC288F1DFA006A5385 /* Mission Impossible.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A9AB51A6288F1DFA006A5385 /* Mission Impossible.mp3 */; };
+		A9AB51AD288F1DFA006A5385 /* Intersteller.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A9AB51A7288F1DFA006A5385 /* Intersteller.mp3 */; };
+		A9AB51AE288F1DFA006A5385 /* Game Of Thrones.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A9AB51A8288F1DFA006A5385 /* Game Of Thrones.mp3 */; };
+		A9AB51AF288F1DFA006A5385 /* Harry Potter.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A9AB51A9288F1DFA006A5385 /* Harry Potter.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +35,15 @@
 		A9AB5185288F1BC5006A5385 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A9AB5188288F1BC5006A5385 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A9AB518A288F1BC5006A5385 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A9AB519C288F1D79006A5385 /* Avengers.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Avengers.mp3; path = ../../../../Downloads/Avengers.mp3; sourceTree = "<group>"; };
+		A9AB519E288F1D81006A5385 /* God Father.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "God Father.mp3"; path = "../../../../Downloads/God Father.mp3"; sourceTree = "<group>"; };
+		A9AB51A0288F1D85006A5385 /* The Dark Knight.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "The Dark Knight.mp3"; path = "../../../../Downloads/The Dark Knight.mp3"; sourceTree = "<group>"; };
+		A9AB51A2288F1DE5006A5385 /* Pirates Of The Carribean.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Pirates Of The Carribean.mp3"; path = "../../../Pirates Of The Carribean.mp3"; sourceTree = "<group>"; };
+		A9AB51A4288F1DF9006A5385 /* Star Wars.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Star Wars.mp3"; path = "../../../Star Wars.mp3"; sourceTree = "<group>"; };
+		A9AB51A6288F1DFA006A5385 /* Mission Impossible.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Mission Impossible.mp3"; path = "../../../Mission Impossible.mp3"; sourceTree = "<group>"; };
+		A9AB51A7288F1DFA006A5385 /* Intersteller.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Intersteller.mp3; path = ../../../Intersteller.mp3; sourceTree = "<group>"; };
+		A9AB51A8288F1DFA006A5385 /* Game Of Thrones.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Game Of Thrones.mp3"; path = "../../../Game Of Thrones.mp3"; sourceTree = "<group>"; };
+		A9AB51A9288F1DFA006A5385 /* Harry Potter.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Harry Potter.mp3"; path = "../../../Harry Potter.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +84,15 @@
 				A9AB5187288F1BC5006A5385 /* LaunchScreen.storyboard */,
 				A9AB518A288F1BC5006A5385 /* Info.plist */,
 				A9AB5182288F1BC5006A5385 /* Movie_Songs.xcdatamodeld */,
+				A9AB519C288F1D79006A5385 /* Avengers.mp3 */,
+				A9AB519E288F1D81006A5385 /* God Father.mp3 */,
+				A9AB51A0288F1D85006A5385 /* The Dark Knight.mp3 */,
+				A9AB51A2288F1DE5006A5385 /* Pirates Of The Carribean.mp3 */,
+				A9AB51A8288F1DFA006A5385 /* Game Of Thrones.mp3 */,
+				A9AB51A9288F1DFA006A5385 /* Harry Potter.mp3 */,
+				A9AB51A7288F1DFA006A5385 /* Intersteller.mp3 */,
+				A9AB51A6288F1DFA006A5385 /* Mission Impossible.mp3 */,
+				A9AB51A4288F1DF9006A5385 /* Star Wars.mp3 */,
 			);
 			path = "Movie Songs";
 			sourceTree = "<group>";
@@ -128,9 +155,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A9AB519D288F1D79006A5385 /* Avengers.mp3 in Resources */,
+				A9AB51AD288F1DFA006A5385 /* Intersteller.mp3 in Resources */,
+				A9AB51AF288F1DFA006A5385 /* Harry Potter.mp3 in Resources */,
+				A9AB51AA288F1DFA006A5385 /* Star Wars.mp3 in Resources */,
 				A9AB5189288F1BC5006A5385 /* LaunchScreen.storyboard in Resources */,
 				A9AB5186288F1BC5006A5385 /* Assets.xcassets in Resources */,
+				A9AB51AE288F1DFA006A5385 /* Game Of Thrones.mp3 in Resources */,
+				A9AB51AC288F1DFA006A5385 /* Mission Impossible.mp3 in Resources */,
 				A9AB5181288F1BC5006A5385 /* Main.storyboard in Resources */,
+				A9AB51A3288F1DE5006A5385 /* Pirates Of The Carribean.mp3 in Resources */,
+				A9AB51A1288F1D85006A5385 /* The Dark Knight.mp3 in Resources */,
+				A9AB519F288F1D81006A5385 /* God Father.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,6 +333,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -325,6 +362,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
